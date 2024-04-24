@@ -14,5 +14,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "custom_base_project"
-include(":app")
+include(":app","OpenCV")
  
